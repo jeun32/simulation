@@ -1,5 +1,5 @@
-## 📁 Introduction to Analytics Modeling (Fall 2025)
-Georgia Tech Master of Science in Analytics — ISYE 6501
+## 📁 Simulation (Summer 2026)
+Georgia Tech Master of Science in Analytics — ISYE 6644
 
 ---
 
