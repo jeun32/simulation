@@ -1,6 +1,6 @@
 # 📊 Data Description
 
-This folder contains datasets used for analysis in the **Introduction to Analytics Modeling** project.  
+This folder contains datasets used for analysis in the **Simulation** project.  
 All datasets are provided as part of coursework materials from the **Georgia Tech Master of Science in Analytics** program.
 
 ⚠️ **Important:**  
